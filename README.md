@@ -1,3 +1,3 @@
 # jay
-This is my first Git Repository
-Author - Jayanth 
+This is my first Git Repository.
+Author - Jayanth.
